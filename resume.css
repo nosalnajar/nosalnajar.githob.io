@@ -1,0 +1,114 @@
+.photo{
+    width: 160px;
+    height: 150px;
+    border-radius: 300px;
+    border-style:solid;
+    margin: 25px;
+    float: left;
+    border-color:beige;
+}
+.header{
+    background-color:tan;
+    height: 235px;
+      
+}
+.name{
+    text-align: center;
+    margin-left: 40%;
+    width: 40%;
+    float: left;
+    margin-top: 5px;
+    font-family:monospace;
+    font-size: 17px;
+   
+}
+.line{
+    border-bottom-style: solid;
+    border-bottom-color:beige;
+    padding: 70px;
+}
+.p-into{
+    clear: both;
+    margin-left: 100px;
+    background-color: magenta;
+    
+}
+.h{
+    float: left;
+    padding-left:100px ;
+    padding-bottom: 20px;
+    margin: 1px;
+    font-family:monospace;
+    font-size: 10px;
+}
+main{
+    clear: both;
+    margin-top: 60px;
+
+}
+.left{
+    width: 28%;
+    background-color:tan;
+    float: left;
+    margin-right:2%;
+    height: 700px;
+   
+}
+.right{
+    width: 70%;
+    background-color:beige;
+    float: left;
+    height: 600px;
+}
+.h1{
+    background-color:beige;
+    font-family:monospace;
+    font-size: 17px;
+}
+.h2{
+    background-color:tan;
+    font-family:monospace;
+    font-size: 17px;
+
+}
+.p{
+    font-size: 15px;
+    font-family:cursive;
+}
+nav{
+    background-color: rgb(230, 200, 104);
+    margin: 30px;
+    clear: both;
+    padding: 10px;
+    width: 100%;
+    margin-left: 0px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    
+
+}
+.active{
+    background-color: white;
+    color: black;
+}
+nav a:hover{
+    background-color: beige;
+    color: black;
+
+}
+.serch{
+    border-style: solid;
+    border-color: gray ;
+    border-width:1px ;
+}
+.photoph{
+    width: 300;
+    height: 200;
+    padding: 70PX;
+    border-style: solid;
+    border-width: 1px;
+}
+

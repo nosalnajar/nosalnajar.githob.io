@@ -1,0 +1,100 @@
+.p{
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    border: black;
+    border-radius: 30PX;
+    background-color:burlywood;
+    width: 200px;
+    margin: 10px;
+}
+.divtaiz{
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 10px;
+    border: black;
+    border-radius: 30PX;
+    background-color:beige;
+    width: 200px;
+    margin: 10px;
+}
+.tree{
+    border: black;
+    border-radius: 30PX;
+    background-color:beige;
+    font-size: 30px;
+
+   
+}
+.s{
+    border-style: double;
+    border-color: sandybrown;
+    font-size: 30px;
+    font-family: fantasy;
+
+}
+.photo{
+    width: 160px;
+    height: 150px;
+    border-radius: 300px;
+    border-style:solid;
+    margin: 25px;
+    float: left;
+    border-color:beige;
+}
+.header{
+    background-color:tan;
+    height: 235px;
+      
+}
+.name{
+    text-align: center;
+    margin-left: 40%;
+    width: 40%;
+    float: left;
+    margin-top: 5px;
+    font-family:monospace;
+    font-size: 17px;
+   
+}
+.line{
+    border-bottom-style: solid;
+    border-bottom-color:beige;
+    padding: 70px;
+}
+.p-into{
+    clear: both;
+    margin-left: 100px;
+    background-color: magenta;
+    
+}
+.h{
+    float: left;
+    padding-left:100px ;
+    padding-bottom: 20px;
+    margin: 1px;
+    font-family:monospace;
+    font-size: 10px;
+}
+nav{
+    background-color: rgb(230, 200, 104);
+    margin: 30px;
+    clear: both;
+    padding: 10px;
+    width: 100%;
+    margin-left: 0px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    
+
+}
+nav a:hover{
+    background-color: beige;
+    color: black;
+
+}
